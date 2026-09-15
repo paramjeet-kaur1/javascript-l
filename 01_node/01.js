@@ -5,3 +5,10 @@ function hello() {
 }
 
 console.log(typeof 6.5);
+
+
+// github----------- 
+//git status  - check karta hai change
+// git add - ready 
+// git commit  → Selected changes ka version save karo
+//git push    → Ye saved version GitHub par bhejo
